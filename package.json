@@ -1,0 +1,19 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusmanwidodo/-2y-10-rv8MmnWW7SAL.wrIIRCp1e2bsNU.y8J9n1bSkDv5xh-HuI37ezDDO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gusmanwidodo/-2y-10-rv8MmnWW7SAL.wrIIRCp1e2bsNU.y8J9n1bSkDv5xh-HuI37ezDDO/issues"
+  },
+  "homepage": "https://github.com/gusmanwidodo/-2y-10-rv8MmnWW7SAL.wrIIRCp1e2bsNU.y8J9n1bSkDv5xh-HuI37ezDDO#readme"
+}
